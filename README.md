@@ -111,3 +111,6 @@ Comprehensive collection of named reactions valuable for retrosynthetic analysis
 - **Scoring metrics**: Synthetic accessibility, route feasibility, and cost estimation
 - **Integration capabilities**: API access, workflow compatibility, and batch processing
 - **Interpretability**: Ability to understand and modify suggested synthetic routes
+
+
+Website of organic chemistry glossary (https://www.chem.ucla.edu/~harding/IGOC/IGOC.html)
