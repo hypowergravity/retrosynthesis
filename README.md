@@ -9,8 +9,14 @@ AI-driven retrosynthetic planning tool developed by AstraZeneca, using Monte Car
 **[ASKCOS](https://askcos.mit.edu/)**  
 MIT's open-source platform for computer-assisted synthesis planning, featuring reaction prediction, retrosynthesis, and synthetic route scoring.
 
+**[FlowER](https://github.com/FongMunHong/FlowER)**
+FlowER is a machine learning model that predicts chemical reactions by explicitly tracking electron movement using flow matching technique.
+
 **[SYBA](https://github.com/karolisramanavicius/syba)**  
 Fragment-based approach to assess synthetic accessibility of molecules using a Bayesian model trained on reaction databases.
+
+**[SynPlanner](https://github.com/Laboratoire-de-Chemoinformatique/SynPlanner)**
+Open-source tool for retrosynthetic planning it integrates Monte Carlo Tree Search (MCTS) with graph neural networks to evaluate applicable reaction rules (policy network) and the synthesizability of intermediate products (value network).
 
 **[RDChiral](https://github.com/connorcoley/rdchiral)**  
 Template-based approach for chemical reaction parsing and template extraction, commonly used in retrosynthetic analysis.
