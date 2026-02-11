@@ -18,6 +18,10 @@ Fragment-based approach to assess synthetic accessibility of molecules using a B
 **[SynPlanner](https://github.com/Laboratoire-de-Chemoinformatique/SynPlanner)**
 Open-source tool for retrosynthetic planning it integrates Monte Carlo Tree Search (MCTS) with graph neural networks to evaluate applicable reaction rules (policy network) and the synthesizability of intermediate products (value network).
 
+**[Syntheseus](https://github.com/microsoft/syntheseus)**
+Syntheseus is a package for end-to-end retrosynthetic planning tool from microsoft.
+
+
 **[RDChiral](https://github.com/connorcoley/rdchiral)**  
 Template-based approach for chemical reaction parsing and template extraction, commonly used in retrosynthetic analysis.
 
